@@ -1,0 +1,16 @@
+{
+    "error": "❌ An error occurred while checking the URL. Please try again later.",
+    "checking": "🔍 Checking URL...",
+    "url_sent": "🌐 Submitted URL",
+    "url_resolved": "🔄 Resolved URL",
+    "security_status": "⚠️ Security Status",
+    "security_safe": "✅ No threats detected",
+    "security_unsafe": "🚫 This site is potentially malicious!",
+    "screenshot_title": "📡 Website Screenshot",
+    "detected_by": "Detected by: urlscan.io",
+    "invalid_url": "❌ Please provide a valid URL",
+    "loading": "⏳ Loading...",
+    "blocked_url": "⚠️ This URL has been blocked by the shortening service. Reason: {{reason}}",
+    "attention": "⚠️ Attention: The security check is done based on the API of Phising.Sinking.Yachts and urlscan.io. It is a basic check and should not be trusted blindly without in-depth analysis.",
+    "attention_button": "Attention"
+  }

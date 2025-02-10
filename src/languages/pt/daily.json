@@ -1,0 +1,5 @@
+{
+    "message": "<:gold_donator:1053256617518440478> | Você resgatou o daily e ganhou **{{daily}}** Lunar coins",
+    "error": "<:naoJEFF:1109179756831854592> | Você já resgatou seu daily hoje!",
+    "transaction": "📥Resgatou o daily no valor de `{{daily}}` lunar coins"
+}

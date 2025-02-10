@@ -1,0 +1,9 @@
+{
+    "await": "<a:azu_carrying:1122709454291488850> | I'm thinking...",
+    "error": "⚠️ An error occurred while processing your request.",
+    "response_error": "⚠️ An unknown error occurred while generating your response - Your prompt limit for today may have been reached.",
+    "user_banned": "<:moderator:1238705467883126865> | You are banned! You will not be able to use my commands. To get context about the ban, go to [my server](https://discord.gg/sfFvh6cPUc)",
+    "free_diary_prompts": "You have reached the limit of free daily prompts",
+    "vip_diary_prompts": "You have reached the limit of daily vip prompts",
+    "text_based_ai": "I'm a text-based AI, so I can't help you with that. 😊"
+}

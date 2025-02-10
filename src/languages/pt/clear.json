@@ -1,0 +1,8 @@
+{
+    "no_permission": "❌ | Você não tem permissão para utilizar este comando.",
+    "invalid_amount": "❌ | A quantidade deve estar entre 1 e 1000.",
+    "deleting": "<a:azu_carregando:1122709454291488850> | Apagando mensagens...",
+    "old_messages": "❌ | Algumas mensagens não puderam ser apagadas por serem mais antigas que 14 dias. Total apagado: {{count}}",
+    "error": "❌ | Ocorreu um erro ao apagar as mensagens.",
+    "success": "✅ | Foram apagadas {{count}} mensagens com sucesso!"
+}

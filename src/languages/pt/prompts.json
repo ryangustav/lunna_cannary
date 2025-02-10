@@ -1,0 +1,3 @@
+{
+    "message": "💰 | Você possui **{{used_text}}/{{disponiveis_text}}** prompts e **{{images_used}}/{{disponiveis_image}}** image prompts."
+}

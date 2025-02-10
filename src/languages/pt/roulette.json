@@ -1,0 +1,14 @@
+{
+    "needDaily": "{{error}} Colete seu daily primeiro: </daily:1237466106093113434>",
+    "insufficientCoins": "{{error}} Lunar coins insuficientes!",
+    "minBet": "{{error}} Aposta mínima: {{minBet}} coins!",
+    "gameError": "{{error}} Erro ao processar o jogo!",
+    "resultTitle": "{{botName}} | Resultado da Roleta",
+    "resultDescription": "🎲 | Número sorteado: {{number}}\n{{colorEmoji}} | Cor: {{color}}\n{{parityEmoji}} | {{parity}}\n📊 | Seção: {{section}}\n\n<:gold_donator:1053256617518440478> | Pot total: {{totalPot}} coins\n🏦 | Taxa da casa (2%): {{houseFee}} coins\n\n{{winners}}",
+    "winnerEntry": "<@{{userId}}> (**{{betType}}**)\n<:gold_donator:1053256617518440478> Aposta: {{amount}} coins\n💎 Ganhou: {{winnings}} coins",
+    "noWinners": "❌ | Nenhum ganhador nesta rodada!",
+    "gameTitle": "{{botName}} | Roleta",
+    "gameDescription": "🎮 Nova aposta registrada!\n👤 Jogador: {{user}}\n<:gold_donator:1053256617518440478> Valor: {{amount}} coins\n🎲 Aposta: {{bet}}\n\n⏳ Resultado em {{timeLeft}} segundos\n💵 Pot atual: {{currentPot}} coins\n\nFaça sua aposta usando /roulette!",
+    "transactionWon": "📥Ganhou {{winnings}} jogando roleta (aposta: {{betAmount}})",
+    "transactionLost": "📤Perdeu {{amount}} jogando roletta"
+}

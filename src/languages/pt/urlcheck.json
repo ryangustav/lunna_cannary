@@ -1,0 +1,16 @@
+{
+    "error": "❌ Ocorreu um erro ao verificar a URL. Por favor, tente novamente mais tarde.",
+    "checking": "🔍 Verificando a URL...",
+    "url_sent": "🌐 URL Enviada",
+    "url_resolved": "🔄 URL Resolvida",
+    "security_status": "⚠️ Status de Segurança",
+    "security_safe": "✅ Nenhuma ameaça detectada",
+    "security_unsafe": "🚫 Este site é potencialmente malicioso!",
+    "screenshot_title": "📡 Captura de Tela do Site",
+    "detected_by": "Detectado por: urlscan.io",
+    "invalid_url": "❌ Por favor, forneça uma URL válida",
+    "blocked_url": "⚠️ Esta URL foi bloqueada pelo serviço de encurtamento. Motivo: {{reason}}",
+    "loading": "⏳ Carregando...",
+    "attention": "⚠️ Atenção: A verificação de segurança é feita com base na API do Phising.Sinking.Yachts e urlscan.io, É uma verificação basica e não deve ser confiada cegamente sem uma analise aprofundada.",
+    "attention_button": "Atenção"
+  }

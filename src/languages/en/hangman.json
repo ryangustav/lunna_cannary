@@ -1,0 +1,14 @@
+{
+    "title": "Hangman Game 🎮",
+    "footer": "Accentuations will be disregarded in the answers",
+    "description": "Letters: {{letterCount}}\nWord: {{word}}",
+    "wrongLetters": "Wrong guesses:",
+    "won": "🎉 You won! 🎉",
+    "lost": "Game Over",
+    "correctWord": "The word was: {{word}}",
+    "guessLetter": "Guess letter",
+    "guessWord": "Guess word",
+    "modalTitle": "Hangman",
+    "enterLetter": "Enter a letter",
+    "enterWord": "Enter the word"
+}

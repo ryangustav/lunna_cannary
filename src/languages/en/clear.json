@@ -1,0 +1,8 @@
+{
+    "no_permission": "❌ | You don't have permission to use this command.",
+    "invalid_amount": "❌ | The amount must be between 1 and 1000.",
+    "deleting": "<a:azu_carregando:1122709454291488850> | Deleting messages...",
+    "old_messages": "❌ | Some messages couldn't be deleted because they are older than 14 days. Total deleted: {{count}}",
+    "error": "❌ | An error occurred while deleting the messages.",
+    "success": "✅ | Successfully deleted {{count}} messages!"
+}

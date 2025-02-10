@@ -1,0 +1,21 @@
+{
+    "title": "Blackjack Game💎",
+    "bet": "<:Money:1051978255827222590> | Bet: {{amount}}",
+    "yourHand": "**Your Hand**",
+    "dealer": "**Dealer**",
+    "needDaily": "<:naoJEFF:1109179756831854592> | You need to collect your daily first, use /daily",
+    "insufficientFunds": "<:naoJEFF:1109179756831854592> | You don't have enough lunar coins for this bet!",
+    "minBet": "<:naoJEFF:1109179756831854592> | Minimum bet amount is {{min}}!",
+    "results": {
+      "win": "🎉 Amazing luck!! You won! 🎉",
+      "lose": "<:naoJEFF:1109179756831854592> Bad luck!! You lost <:naoJEFF:1109179756831854592>",
+      "bet": "<:world_setad:1108434715419103373> It's a tie! <:world_setae:1108434753478217918>",
+      "double": "🎉 Congratulations!! Perfect 21! 🎉"
+    },
+    "transactions": {
+      "win": "📥Won {{amount}} playing blackjack",
+      "bet": "📦Tied in blackjack and received refund of {{amount}}",
+      "double": "📥Won {{amount}} playing blackjack with perfect 21",
+      "lose": "📤Lost {{amount}} playing blackjack"
+    }
+}

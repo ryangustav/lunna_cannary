@@ -1,0 +1,10 @@
+{
+    "autosend": "<:naoJEFF:1109179756831854592> | Você não pode fazer um pagamento para si mesmo!",
+    "daily": "<:naoJEFF:1109179756831854592> | Você precisa coletar seu daily antes, usando </daily:1237466106093113434>",
+    "daily_user": "<:naoJEFF:1109179756831854592> | O usuário precisa coletar o daily antes, usando </daily:1237466106093113434>",
+    "insuficient_coins": "<:naoJEFF:1109179756831854592> | Você não tem lunar coins suficientes para efetuar esse pagamento!",
+    "message_transactions": "📤Enviou {{amount}} para `{{username}} ({{id}})`",
+    "message_user_transactions": "📥Recebeu {{amount}} de `{{user_username}} ({{user_id}})`",
+    "message": "<:gold_donator:1053256617518440478> | Pronto! {{user}} você pagou {{amount}} lunar coins para {{user_two}}",
+    "error": "❌ | Ocorreu um erro ao processar o pagamento."
+}

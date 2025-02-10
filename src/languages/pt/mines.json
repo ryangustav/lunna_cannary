@@ -1,0 +1,12 @@
+{
+    "needDaily": "{{emoji} | Você precisa coletar seu daily antes, usando </daily:1237466106093113434>",
+    "insufficientCoins": "{{emoji} | Você não tem lunar coins suficientes para fazer esta aposta!",
+    "error": "❌ | Ocorreu um erro ao iniciar o jogo.",
+    "embedTitle": "{{botName}} | Mines Game💣",
+    "embedOngoing": "{{coin}} | Multiplicador: {{multiplier}}\n{{money}} | Ganhos: **{{coins}}** Lunar coins",
+    "embedWon": "{{coin}} | Multiplicador: {{multiplier}}\n{{money}} | Ganhos: **{{coins}}** Lunar coins\n\n🎉 Parabéns, você ganhou **{{coins}}** Lunar coins! 🎉",
+    "embedLost": "{{coin}} | Multiplicador: {{multiplier}}\n{{money}} | Perdas: **{{coins}}** Lunar coins\n\n{{error}} Você perdeu **{{coins}}** lunar coins {{error}}",
+    "finalizeButton": "Finalizar jogo",
+    "transactionWon": "📥Ganhou {{amount}} jogando mines",
+    "transactionLost": "📤Perdeu {{amount}} jogando mines"
+ }

@@ -1,0 +1,21 @@
+{
+    "select_placeholder": "Other information",
+    "permissions_label": "Permissions",
+    "permissions_description": "View user permissions",
+    "roles_label": "Roles",
+    "roles_description": "View all user roles",
+    "avatar_label": "Avatar",
+    "avatar_description": "View user's avatar",
+    "banner_label": "Banner",
+    "banner_description": "View user's banner",
+    "embed_title": "User info",
+    "badges": "Badges",
+    "booster": "Booster",
+    "top_roles": "Top Roles",
+    "no_roles": "No roles",
+    "join_date": "Join Date",
+    "account_created": "Account Created",
+    "not_your_interaction": "<:naoJEFF:1109179756831854592> | This interaction isn't yours!",
+    "no_avatar": "<:naoJEFF:1109179756831854592> | User has no avatar",
+    "no_banner": "<:naoJEFF:1109179756831854592> | User has no banner"
+  }

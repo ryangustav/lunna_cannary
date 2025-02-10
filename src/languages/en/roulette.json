@@ -1,0 +1,13 @@
+{
+    "needDaily": "{{error}} Collect your daily first: </daily:1237466106093113434>",
+    "insufficientCoins": "{{error}} Insufficient Lunar coins!",
+    "minBet": "{{error}} Minimum bet: {{minBet}} coins!",
+    "gameError": "{{error}} Error processing the game!",
+    "resultTitle": "{{botName}} | Roulette Results",
+    "resultDescription": "🎲 | Number drawn: {{number}}\n{{colorEmoji}} | Color: {{color}}\n{{parityEmoji}} | {{parity}}\n📊 | Section: {{section}}\n\n<:gold_donator:1053256617518440478> | Total pot: {{totalPot}} coins\n🏦 | House fee (2%): {{houseFee}} coins\n\n{{winners}}",
+    "winnerEntry": "<@{{userId}}> (**{{betType}}**)\n<:gold_donator:1053256617518440478> Bet: {{amount}} coins\n💎 Won: {{winnings}} coins",
+    "noWinners": "❌ | No winners this round!",
+    "gameTitle": "{{botName}} | Roulette",
+    "gameDescription": "🎮 New bet registered!\n👤 Player: {{user}}\n<:gold_donator:1053256617518440478> Amount: {{amount}} coins\n🎲 Bet: {{bet}}\n\n⏳ Results in {{timeLeft}} seconds\n💵 Current pot: {{currentPot}} coins\n\nPlace your bet using /roulette!",
+    "transaction Won": "📥Won {{winnings}} playing roulette (bet: {{bet Amount}})", "transaction List": "📤Lost {{amount}} playing roulette"
+  }

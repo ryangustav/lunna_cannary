@@ -1,0 +1,18 @@
+{
+    "no_permission": "❌ | Você não tem permissão para utilizar este comando",
+    "cannot_ban_owner": "❌ | Você não pode banir o dono do servidor",
+    "higher_role_user": "❌ | Você não pode banir alguém com cargo maior que o seu",
+    "higher_role_bot": "❌ | Eu não posso banir alguém com cargo maior que o meu",
+    "error": "❌ | Ocorreu um erro ao executar o comando",
+    "confirmation_title": "Banir usuário",
+    "confirmation_description": "{{moderator}} você está prestes a banir {{user}}. Tem certeza?\n<:file:1052384025089687614> | Motivo:\n```{{reason}}```",
+    "confirm": "Confirmo",
+    "cancel": "Recuso",
+    "wrong_user": "❌ | Você não pode clicar nesse botão",
+    "dm_description": "### Você foi banido do servidor {{server}}",
+    "dm_user_field": "<:users:1055062836704976997> **Membro**",
+    "dm_moderator_field": "<:IDD:1052973779153846372> **Moderador**",
+    "dm_reason_field": "<:file:1052384025089687614> **Motivo**",
+    "success": "✅ | Pronto! O usuário {{user}} foi banido por {{moderator}}!",
+    "timeout": "⏱️ | Tempo de confirmação expirado"
+}

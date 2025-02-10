@@ -1,0 +1,7 @@
+{
+    "no_transactions": "<:naoJEFF:1109179756831854592> | You have no transactions yet!",
+    "invalid_pages": "<:naoJEFF:1109179756831854592> | Invalid page! Choose a number between 1 and {{totalPages}}",
+    "title": "{{username}} | Transactions (Page {{page}} of {{totalPages}})",
+    "footer": "Number of transactions: {{transactions}}",
+    "no_interact": "<:naoJEFF:1109179756831854592> | You cannot interact with this menu!"
+}

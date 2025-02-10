@@ -1,0 +1,18 @@
+{
+    "no_permission": "❌ | You don't have permission to use this command",
+    "cannot_ban_owner": "❌ | You cannot ban the server owner",
+    "higher_role_user": "❌ | You cannot ban someone with a higher role than yours",
+    "higher_role_bot": "❌ | I cannot ban someone with a higher role than mine",
+    "error": "❌ | An error occurred while executing the command",
+    "confirmation_title": "Ban user",
+    "confirmation_description": "{{moderator}} you are about to ban {{user}}. Are you sure?\n<:file:1052384025089687614> | Reason:\n```{{reason}}```",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "wrong_user": "❌ | You cannot click this button",
+    "dm_description": "### You have been banned from {{server}}",
+    "dm_user_field": "<:users:1055062836704976997> **Member**",
+    "dm_moderator_field": "<:IDD:1052973779153846372> **Moderator**",
+    "dm_reason_field": "<:file:1052384025089687614> **Reason**",
+    "success": "✅ | Done! User {{user}} was banned by {{moderator}}!",
+    "timeout": "⏱️ | Confirmation time expired"
+}

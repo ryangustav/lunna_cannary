@@ -1,0 +1,4 @@
+{
+    "title": "{{botName}} | Language",
+    "description": "You have changed the language to **{{language}}**"
+  }

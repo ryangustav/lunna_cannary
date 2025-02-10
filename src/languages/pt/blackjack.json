@@ -1,0 +1,21 @@
+{
+    "title": "Jogo de Blackjack💎",
+    "bet": "<:Money:1051978255827222590> | Aposta: {{amount}}",
+    "yourHand": "**Sua mão**",
+    "dealer": "**Dealer**",
+    "needDaily": "<:naoJEFF:1109179756831854592> | Você precisa coletar seu daily antes, usando /daily",
+    "insufficientFunds": "<:naoJEFF:1109179756831854592> | Você não tem lunar coins o suficiente para fazer esta aposta!",
+    "minBet": "<:naoJEFF:1109179756831854592> | Valor mínimo para apostar é {{min}}!",
+    "results": {
+      "win": "🎉 Nossa que sorte!! Você ganhou 🎉",
+      "lose": "<:naoJEFF:1109179756831854592> Que azar!! Você perdeu <:naoJEFF:1109179756831854592>",
+      "bet": "<:world_setad:1108434715419103373> Deu empate! <:world_setae:1108434753478217918>",
+      "double": "🎉 Parabéns!! 21 perfeito! 🎉"
+    },
+    "transactions": {
+      "win": "Ganhou {{amount}} jogando blackjack",
+      "bet": "Empatou jogando blackjack e recebeu extorno de {{amount}}",
+      "double": "Ganhou {{amount}} jogando blackjack com 21 perfeito",
+      "lose": "Perdeu {{amount}} jogando blackjack"
+    }
+}

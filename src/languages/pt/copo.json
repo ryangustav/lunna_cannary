@@ -1,0 +1,34 @@
+{
+    "command": {
+        "name": "copo",
+        "description": "「💰」Jogue o jogo do copo"
+    },
+    "options": {
+        "value": {
+            "name": "valor",
+            "description": "Qual valor que você ira apostar?"
+        }
+    },
+    "errors": {
+        "needDaily": "<:naoJEFF:1109179756831854592> | Você precisa coletar seu daily antes, usando /daily",
+        "insufficientFunds": "<:naoJEFF:1109179756831854592> | Você não tem lunar coins o suficiente para fazer esta aposta!",
+        "minBet": "<:naoJEFF:1109179756831854592> | Valor mínimo para apostar é 50!"
+    },
+    "game": {
+        "title": "Jogo do copo<:soda:1239315444163149865>",
+        "question": "⚾Onde esta a bolinha?⚾",
+        "win": {
+            "title": "**Você ganhou**",
+            "betValue": "<:gold_donator:1053256617518440478> Valor apostado: {{value}}",
+            "earnings": "<:Money:1051978255827222590> Ganhos: {{amount}}",
+            "transaction": "Ganhou {{amount}} jogando o jogo do copo"
+        },
+        "lose": {
+            "title": "**Você perdeu**",
+            "rightCup": "<:soda:1239315444163149865> Copo certo: {{cup}}",
+            "yourAnswer": "<:soda:1239315444163149865> Você respondeu: {{answer}}",
+            "losses": "<:Money:1051978255827222590> Percas: {{amount}}",
+            "transaction": "Perdeu {{amount}} jogando o jogo do copo"
+        }
+    }
+}

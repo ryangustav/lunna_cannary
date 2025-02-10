@@ -1,0 +1,5 @@
+{
+    "message": "<:gold_donator:1053256617518440478> | You have redeemed your daily and earned **{{daily}}** Lunar coins",
+    "error": "<:naoJEFF:1109179756831854592> | You have already redeemed your daily today!",
+    "transaction": "📥Redeemed the daily worth `{{daily}}` lunar coins"
+}

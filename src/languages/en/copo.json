@@ -1,0 +1,34 @@
+{
+    "command": {
+        "name": "cup",
+        "description": "「💰」Play the cup game"
+    },
+    "options": {
+        "value": {
+            "name": "value",
+            "description": "How much do you want to bet?"
+        }
+    },
+    "errors": {
+        "needDaily": "<:naoJEFF:1109179756831854592> | You need to collect your daily first, use /daily",
+        "insufficientFunds": "<:naoJEFF:1109179756831854592> | You don't have enough lunar coins for this bet!",
+        "minBet": "<:naoJEFF:1109179756831854592> | Minimum bet amount is 50!"
+    },
+    "game": {
+        "title": "Cup Game<:soda:1239315444163149865>",
+        "question": "⚾Where is the ball?⚾",
+        "win": {
+            "title": "**You won**",
+            "betValue": "<:gold_donator:1053256617518440478> Bet amount: {{value}}",
+            "earnings": "<:Money:1051978255827222590> Earnings: {{amount}}",
+            "transaction": "📥Won {{amount}} playing the cup game"
+        },
+        "lose": {
+            "title": "**You lost**",
+            "rightCup": "<:soda:1239315444163149865> Right cup: {{cup}}",
+            "yourAnswer": "<:soda:1239315444163149865> Your answer: {{answer}}",
+            "losses": "<:Money:1051978255827222590> Losses: {{amount}}",
+            "transaction": "📤Lost {{amount}} playing the cup game"
+        }
+    }
+}

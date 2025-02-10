@@ -1,0 +1,4 @@
+{
+    "title": "{{botName}} | Botinfo",
+    "description": "<:SpecialRoles:1055063301148639252> *Hello, {{user}}. My name is lunna, I'm a multipurpose bot*\n\n<:developer:1238705584098775100> | Developer: Kgzin\n<:gold_donator:1053256617518440478> | My server: [Lunna - Official server](https://discord.gg/ccpv59XB5p)\n<:timer:1104785133116080220> | Uptime: {{uptime}}\n<:users:1055062836704976997> | Lunnarians: {{users}} users in {{servers}} servers"
+  }

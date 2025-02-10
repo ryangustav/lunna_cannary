@@ -1,0 +1,17 @@
+{
+"info": {
+        "title": "🎫 Rifas",
+        "total_tickets": "<:pr_cupom:1052973148238266398> Total de Tickets",
+        "prize": "💸 Prêmio Atual",
+        "next_draw": "<:timer:1104785133116080220> Próximo Sorteio",
+        "ticket_price": "<:Money:1051978255827222590> Preço do Ticket",
+        "last_winner": "<:Comemoracao:1337836155407695962> Vencedor anterior",
+        "last_prize": "<:lunna_coins:1337836202555998360> Prêmio anterior", 
+        "unknown": "Desconhecido",
+        "unknown_prize": "Prêmio Desconhecido"
+},
+"insufficient_funds": "❌ Você não tem coins suficientes para comprar estes tickets!",
+"purchase_success": "✅ Você comprou {{amount}} tickets por {{total}} coins!",
+"winner_announcement": "🎉 Parabéns {{user}}! Você ganhou {{prize}} coins no sorteio da rifa!\n📊 Total de tickets: {{total_tickets}}",
+"error": "❌ Ocorreu um erro ao processar sua solicitação."
+}

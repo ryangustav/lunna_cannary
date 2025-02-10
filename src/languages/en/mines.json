@@ -1,0 +1,12 @@
+{
+    "needDaily": "{{emoji} | You need exactly your day before, using </daily:1237466106093113434>",
+    "insufficientCoins": "{{emoji} | You do not have enough Lunar Coins to place this bet!",
+    "error": "❌ | An error occurred while starting the game.",
+    "embedTitle": "{{botName}} | Mines Game💣",
+    "embedOngoing": "{{coin}} | Multiplier: {{multiplier}}\n{{money}} | Winnings: **{{coins}}** Lunar Coins",
+    "embedWon": "{{coin}} | Multiplier: {{multiplier}}\n{{money}} | Winnings: **{{coins}}** Lunar Coins\n\n🎉 Congratulations, you won ** {{coins}}** Lunar coins! 🎉",
+    "embedLost": "{{coin}} | Multiplier: {{multiplier}}\n{{money}} | Losses: **{{coins}}** Lunar coins\n\n{{error}} You have lost **{{coins}}** Lunar coins {{error}}",
+    "finalizeButton": "End game",
+    "transactionWon": "📥Won {{amount}} playing mines",
+    "transactionLost": "📤Lost {{amount}} playing mines"
+}

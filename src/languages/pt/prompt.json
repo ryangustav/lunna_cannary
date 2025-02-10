@@ -1,0 +1,9 @@
+{
+    "await": "<a:azu_carregando:1122709454291488850> | Estou pensando...",
+    "error": "⚠️ Ocorreu um erro ao processar seu pedido.",
+    "response_error": "⚠️ Ocorreu um erro desconhecido ao gerar sua resposta - O seu limite de prompts para hoje pode ter sido atingido.",
+    "user_banned": "<:moderator:1238705467883126865> | Você está banido! Não podera usar meus comandos. Para contextar o banimento entre em [meu servidor](https://discord.gg/sfFvh6cPUc)",
+    "free_diary_prompts": "Você atingiu o limite de prompts gratis diarios",
+    "vip_diary_prompts": "Você atingiu o limite de prompts vip diario",
+    "text_based_ai": "Sou uma IA com base em texto, então não consigo te ajudar com isso. 😊"
+}

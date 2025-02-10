@@ -1,0 +1,6 @@
+{
+    "insufficient_funds": "❌ | You don't have enough lunar coins to place this bet!",
+    "error": "❌ | An error occurred while processing the game.",
+    "spinning": "Spinning...",
+    "result": "💰 | Winnings: **{{winAmount}}** Lunar coins\n🎯 | Multiplier: {{multiplier}}\n↘️=====↙️\n{{board}}\n↗️=====↖️"
+}

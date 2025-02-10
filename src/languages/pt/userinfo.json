@@ -1,0 +1,21 @@
+{
+    "select_placeholder": "Outras informações",
+    "permissions_label": "Permissões",
+    "permissions_description": "Veja as permissões do usuário",
+    "roles_label": "Cargos",
+    "roles_description": "Veja todos os cargos do usuário",
+    "avatar_label": "Avatar",
+    "avatar_description": "Veja o avatar do usuário",
+    "banner_label": "Banner",
+    "banner_description": "Veja o banner do usuário",
+    "embed_title": "Informações do usuário",
+    "badges": "Badges",
+    "booster": "Booster",
+    "top_roles": "Maiores cargos",
+    "no_roles": "Não possui cargos",
+    "join_date": "Data de entrada",
+    "account_created": "Data de criação da conta",
+    "not_your_interaction": "<:naoJEFF:1109179756831854592> | Essa interação não é sua!",
+    "no_avatar": "<:naoJEFF:1109179756831854592> | O usuário não possui avatar",
+    "no_banner": "<:naoJEFF:1109179756831854592> | O usuário não possui banner"
+  }

@@ -1,0 +1,14 @@
+{
+    "title": "Jogo da Forca 🎮",
+    "footer": "As acentuações serão desconsideradas nas respostas",
+    "description": "Quantidade de letras: {{letterCount}}\nPalavra: {{word}}",
+    "wrongLetters": "Letras erradas:",
+    "won": "🎉 Você ganhou! 🎉",
+    "lost": "Fim de jogo",
+    "correctWord": "A palavra era: {{word}}",
+    "guessLetter": "Chutar letra",
+    "guessWord": "Chutar palavra",
+    "modalTitle": "Jogo da Forca",
+    "enterLetter": "Digite uma letra",
+    "enterWord": "Digite a palavra"
+}

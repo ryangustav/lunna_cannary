@@ -1,0 +1,12 @@
+{
+    "error": "❌ An error occurred while processing the game.",
+    "needDaily": "{{error}} You need to collect your daily first, use </daily:1237466106093113434>",
+    "insufficientCoins": "{{error}} You don't have enough lunar coins to make this bet!",
+    "crashedAt": "{{boom}} Crashed at {{multiplier}}x\n\n",
+    "currentMultiplier": "{{rocket}} Multiplier: {{multiplier}}x\n\n",
+    "betInfo": "{{money}} Bet: {{betAmount}} Lunar coins\n{{chart}} Potential win: {{potentialWin}} Lunar coins",
+    "collected": "\n\n✅ You collected {{amount}} Lunar coins!",
+    "lost": "\n\n❌ You lost {{amount}} Lunar coins!",
+    "collectButton": "Collect",
+    "won": "📥Won {{amount}} playing crash"
+}

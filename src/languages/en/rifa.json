@@ -1,0 +1,17 @@
+{
+    "info": {
+      "title": "🎫 Raffle",
+      "total_tickets": "Total Tickets",
+      "prize": "Current Prize",
+      "next_draw": "Next Draw",
+      "ticket_price": "Ticket Price",
+      "last_winner": "Previous winner",
+      "last_prize": "Previous prize",
+      "unknown": "Unknown",
+      "unknown_prize": "Unknown Prize"
+    },
+    "insufficient_funds": "❌ You don't have enough coins to buy these tickets!",
+    "purchase_success": "✅ You bought {{amount}} tickets for {{total}} coins!",
+    "winner_announcement": "🎉 Congratulations {{user}}! You won {{prize}} coins in the raffle!\n📊 Total tickets: {{total_tickets}}",
+    "error": "❌ An error occurred while processing your request."
+}
